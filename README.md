@@ -1,5 +1,7 @@
 ### Hi there 👋
 111
+今天是2021年8月24日
+第一次push
 <!--
 **nancheng1994/nancheng1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
